@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Dependencies
 
-In this project we hame some dependencies, they are:
+In this project we have some dependencies, they are:
 * [Angular CDK](https://material.angular.io/cdk)
 * [Angular Material](https://material.angular.io/)
 * [Angular PWA](https://www.npmjs.com/package/@angular/pwa)
